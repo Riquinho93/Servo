@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="WindonsServo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ServoWindows"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="1493*"/>
+        </Grid.ColumnDefinitions>
+        <!-- <Grid.ColumnDefinitions>
+           
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+
+        </Grid.RowDefinitions>
+        <TextBlox Text="Nome: "/>
+        <TextBox Text="Idade:" />  -->
+        <!--<TextBlock Text="nome" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" Margin="0,0,0,0" VerticalAlignment="Stretch"/>-->
+        <TextBlock x:ConnectionId='2' Grid.Column="1" HorizontalAlignment="Left" Margin="54,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="18" Height="48" Width="151"                                              ><Run Text="Email"/><Run Text=":"/></TextBlock>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="33,394,0,0" Text="Password:" TextWrapping="Wrap" VerticalAlignment="Top" Width="128" FontSize="18" RenderTransformOrigin="-0.085,-1.562" Height="42"/>
+        <Button x:ConnectionId='3' Content="Login&#xD;&#xA;" Grid.Column="1" HorizontalAlignment="Left" Margin="304,470,0,0" VerticalAlignment="Top" Height="48" Width="142" FontSize="22"                     />
+        <TextBox x:ConnectionId='4' x:Name="txtEmail" Grid.Column="1" HorizontalAlignment="Left" Margin="211,332,0,0" Text="" VerticalAlignment="Top" Height="32" Width="255" FontSize="12"/>
+        <TextBox x:ConnectionId='5' x:Name="txtPassword" Grid.Column="1" HorizontalAlignment="Left" Margin="211,398,0,0" Text="" VerticalAlignment="Top" Height="28" Width="255" PlaceholderText="" InputScope="Password" FontSize="12"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="281,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" Width="231" Height="48" FontFamily="Arial Black"><Run Text="Login"/><LineBreak/><Run/></TextBlock>
+        <!--<TextBlock Text="cadatro" Grid.Row="2" Grid.Column="0"/>-->
+
+
+    </Grid>
+</Page>
+

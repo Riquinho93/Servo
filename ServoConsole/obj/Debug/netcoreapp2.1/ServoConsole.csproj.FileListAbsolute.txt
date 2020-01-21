@@ -1,0 +1,41 @@
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.deps.json
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.runtimeconfig.json
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.runtimeconfig.dev.json
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.dll
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.pdb
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoLibrary.dll
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoLibrary.pdb
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.AssemblyInfo.cs
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.csproj.CopyComplete
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.dll
+C:\Users\henri\source\repos\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.pdb
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.deps.json
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.runtimeconfig.json
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.runtimeconfig.dev.json
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.pdb
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoLibrary.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoLibrary.pdb
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.AssemblyInfo.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.csproj.CopyComplete
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.pdb
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.csproj.CoreCompileInputs.cache
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.deps.json
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.runtimeconfig.json
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.runtimeconfig.dev.json
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoConsole.pdb
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoLibrary.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\bin\Debug\netcoreapp2.1\ServoLibrary.pdb
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.csprojAssemblyReference.cache
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.AssemblyInfoInputs.cache
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.AssemblyInfo.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.csproj.CopyComplete
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoConsole\obj\Debug\netcoreapp2.1\ServoConsole.pdb

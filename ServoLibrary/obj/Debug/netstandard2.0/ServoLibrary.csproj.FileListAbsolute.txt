@@ -1,0 +1,26 @@
+C:\Users\henri\source\repos\WindonsServo\ServoLibrary\bin\Debug\netstandard2.0\ServoLibrary.deps.json
+C:\Users\henri\source\repos\WindonsServo\ServoLibrary\bin\Debug\netstandard2.0\ServoLibrary.dll
+C:\Users\henri\source\repos\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.AssemblyInfo.cs
+C:\Users\henri\source\repos\WindonsServo\ServoLibrary\bin\Debug\netstandard2.0\ServoLibrary.pdb
+C:\Users\henri\source\repos\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.dll
+C:\Users\henri\source\repos\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.pdb
+C:\Users\henri\source\repos\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoLibrary\bin\Debug\netstandard2.0\ServoLibrary.deps.json
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoLibrary\bin\Debug\netstandard2.0\ServoLibrary.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoLibrary\bin\Debug\netstandard2.0\ServoLibrary.pdb
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.AssemblyInfo.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.pdb
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.csprojAssemblyReference.cache
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoLibrary\bin\Debug\netstandard2.0\ServoLibrary.deps.json
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoLibrary\bin\Debug\netstandard2.0\ServoLibrary.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoLibrary\bin\Debug\netstandard2.0\ServoLibrary.pdb
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.AssemblyInfoInputs.cache
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.AssemblyInfo.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.pdb
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoLibrary\obj\Debug\netstandard2.0\ServoLibrary.csprojAssemblyReference.cache

@@ -1,0 +1,376 @@
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\App.g.i.cs
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\App.g.cs
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.g.i.cs
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.g.cs
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\MainPage.g.cs
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\App.xaml
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\MainPage.xaml
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.xaml
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\App.xbf
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\MainPage.xbf
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.xbf
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\App.xbf
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\View\Home.xbf
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\MainPage.xbf
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.xr.xml
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.exe
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.pdb
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\resources.pri
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\AppxManifest.xml
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Core\WindonsServo.exe
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.build.appxrecipe
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Remotion.Linq.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\System.Runtime.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\System.Data.SqlClient.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\System.Interactive.Async.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.csproj.CopyComplete
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.exe
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.pdb
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions\en-US\Microsoft.EntityFrameworkCore.Properties.AbstractionsStrings.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.Design\en-US\Microsoft.EntityFrameworkCore.Properties.DesignStrings.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Properties.RelationalStrings.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.SqlServer\en-US\Microsoft.EntityFrameworkCore.SqlServer.Properties.SqlServerStrings.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Configuration\en-US\Microsoft.Extensions.Configuration.Resources.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Configuration.Binder\en-US\Microsoft.Extensions.Configuration.Binder.Resources.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-US\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-US\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-US\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Options\en-US\Microsoft.Extensions.Options.Resources.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\FxResources.System.Data.SqlClient.SR.resw
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\priconfig.xml
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\resources.resfiles
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\pri.resfiles
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\qualifiers.txt
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\resources.en-us.resfiles
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\resources.en-us.resfiles.intermediate
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758552200000000.json
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\ServoLibrary.dll
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\ServoLibrary.pdb
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\bin\x64\Debug\View\Register.xbf
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\View\Register.g.i.cs
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\View\Register.g.cs
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\View\Register.xaml
+C:\Users\henri\source\repos\WindonsServo\WindonsServo\obj\x64\Debug\View\Register.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\App.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\App.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\About.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\About.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaCadastroForm.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaCadastroForm.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaForm.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaForm.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\MainPage.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\MainPage.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Menu.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Menu.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Perfi.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Perfi.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductCadastroForm.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductCadastroForm.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductForm.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductForm.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Profile.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Profile.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\RegisterForm.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\RegisterForm.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersCadastroForm.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersCadastroForm.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersForm.g.i.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersForm.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\App.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\About.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaCadastroForm.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaForm.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\MainPage.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Menu.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Perfi.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductCadastroForm.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductForm.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Profile.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\RegisterForm.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersCadastroForm.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersForm.xaml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\App.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\About.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaCadastroForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\MainPage.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Menu.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Perfi.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductCadastroForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\Profile.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\RegisterForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersCadastroForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.exe
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.pdb
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\App.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\About.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\CategoriaCadastroForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\CategoriaForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\Home.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\MainPage.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\Menu.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\Perfi.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\ProductCadastroForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\ProductForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\Profile.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\RegisterForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\UsersCadastroForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\View\UsersForm.xbf
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.xr.xml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.exe
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.pdb
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\resources.pri
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\AppxManifest.xml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Core\WindonsServo.exe
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.build.appxrecipe
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Remotion.Linq.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\System.Runtime.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\System.Data.SqlClient.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\System.Interactive.Async.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\ServoLibrary.dll
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\bin\x64\Debug\ServoLibrary.pdb
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.csproj.CopyComplete
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions\en-US\Microsoft.EntityFrameworkCore.Properties.AbstractionsStrings.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.Design\en-US\Microsoft.EntityFrameworkCore.Properties.DesignStrings.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Properties.RelationalStrings.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.SqlServer\en-US\Microsoft.EntityFrameworkCore.SqlServer.Properties.SqlServerStrings.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Configuration\en-US\Microsoft.Extensions.Configuration.Resources.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Configuration.Binder\en-US\Microsoft.Extensions.Configuration.Binder.Resources.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-US\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-US\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-US\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Options\en-US\Microsoft.Extensions.Options.Resources.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Properties.Resources.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\FxResources.System.Data.SqlClient.SR.resw
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\priconfig.xml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\resources.resfiles
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\pri.resfiles
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\qualifiers.txt
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\resources.en-us.resfiles
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\resources.en-us.resfiles.intermediate
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758552200000000.json
+C:\Users\henri\Desktop\WindonsServo\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.csproj.CoreCompileInputs.cache
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.csprojAssemblyReference.cache
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\App.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\App.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\About.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\About.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaCadastroForm.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaCadastroForm.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaForm.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaForm.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\MainPage.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\MainPage.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Menu.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Menu.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductCadastroForm.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductCadastroForm.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductForm.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductForm.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Profile.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Profile.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\RegisterForm.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\RegisterForm.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersCadastroForm.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersCadastroForm.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersForm.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersForm.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\App.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\About.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaCadastroForm.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaForm.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\MainPage.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Menu.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductCadastroForm.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductForm.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Profile.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\RegisterForm.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersCadastroForm.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersForm.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\App.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\About.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaCadastroForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\CategoriaForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Home.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\MainPage.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Menu.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductCadastroForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProductForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\Profile.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\RegisterForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersCadastroForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\UsersForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.exe
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.pdb
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.xr.xml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\App.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\About.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\CategoriaCadastroForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\CategoriaForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\Home.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\MainPage.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\Menu.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\ProductCadastroForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\ProductForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\Profile.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\RegisterForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\UsersCadastroForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\UsersForm.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.xr.xml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.exe
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.pdb
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\resources.pri
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\AppxManifest.xml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Core\WindonsServo.exe
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.build.appxrecipe
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pdb
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Remotion.Linq.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\System.Runtime.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\System.Data.SqlClient.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\System.Interactive.Async.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\ServoLibrary.dll
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\ServoLibrary.pdb
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\WindonsServo.csproj.CopyComplete
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid.pri.xml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\priconfig.xml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\resources.resfiles
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\pri.resfiles
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\qualifiers.txt
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\resources.en-us.resfiles
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\resources.en-us.resfiles.intermediate
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758552200000000.json
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions\en-US\Microsoft.EntityFrameworkCore.Properties.AbstractionsStrings.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.Design\en-US\Microsoft.EntityFrameworkCore.Properties.DesignStrings.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Properties.RelationalStrings.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.EntityFrameworkCore.SqlServer\en-US\Microsoft.EntityFrameworkCore.SqlServer.Properties.SqlServerStrings.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Configuration\en-US\Microsoft.Extensions.Configuration.Resources.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Configuration.Binder\en-US\Microsoft.Extensions.Configuration.Binder.Resources.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-US\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-US\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-US\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Options\en-US\Microsoft.Extensions.Options.Resources.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Properties.Resources.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\FxResources.System.Data.SqlClient.SR.resw
