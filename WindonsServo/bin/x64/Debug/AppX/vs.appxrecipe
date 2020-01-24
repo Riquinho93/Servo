@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-01-21T11:46:58.547</Modified>
+      <Modified>2020-01-24T23:10:42.758</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.exe">
       <PackagePath>entrypoint\WindonsServo.exe</PackagePath>
-      <Modified>2020-01-21T11:46:55.889</Modified>
+      <Modified>2020-01-24T23:10:40.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\.nuget\packages\microsoft.entityframeworkcore\2.2.6\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll">
       <PackagePath>Microsoft.EntityFrameworkCore.dll</PackagePath>
@@ -124,7 +124,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\ServoLibrary\bin\Debug\netstandard2.0\ServoLibrary.dll">
       <PackagePath>ServoLibrary.dll</PackagePath>
-      <Modified>2020-01-21T10:54:56.687</Modified>
+      <Modified>2020-01-24T21:54:37.433</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
@@ -202,59 +202,63 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\WindonsServo.xr.xml">
       <PackagePath>WindonsServo.xr.xml</PackagePath>
-      <Modified>2020-01-19T21:54:52.125</Modified>
+      <Modified>2020-01-24T20:07:02.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.271</Modified>
+      <Modified>2020-01-24T23:10:39.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\About.xbf">
       <PackagePath>View\About.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.272</Modified>
+      <Modified>2020-01-24T23:10:39.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\CategoriaCadastroForm.xbf">
       <PackagePath>View\CategoriaCadastroForm.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.272</Modified>
+      <Modified>2020-01-24T23:10:39.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\CategoriaForm.xbf">
       <PackagePath>View\CategoriaForm.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.273</Modified>
+      <Modified>2020-01-24T23:10:39.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\Home.xbf">
       <PackagePath>View\Home.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.273</Modified>
+      <Modified>2020-01-24T23:10:39.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\MainPage.xbf">
       <PackagePath>View\MainPage.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.312</Modified>
+      <Modified>2020-01-24T23:10:39.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\Menu.xbf">
       <PackagePath>View\Menu.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.312</Modified>
+      <Modified>2020-01-24T23:10:39.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\ProductCadastroForm.xbf">
       <PackagePath>View\ProductCadastroForm.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.313</Modified>
+      <Modified>2020-01-24T23:10:39.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\ProductForm.xbf">
       <PackagePath>View\ProductForm.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.313</Modified>
+      <Modified>2020-01-24T23:10:39.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\Profile.xbf">
       <PackagePath>View\Profile.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.313</Modified>
+      <Modified>2020-01-24T23:10:39.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\ProfilePage.xbf">
+      <PackagePath>View\ProfilePage.xbf</PackagePath>
+      <Modified>2020-01-24T23:10:39.285</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\RegisterForm.xbf">
       <PackagePath>View\RegisterForm.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.314</Modified>
+      <Modified>2020-01-24T23:10:39.285</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\UsersCadastroForm.xbf">
       <PackagePath>View\UsersCadastroForm.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.314</Modified>
+      <Modified>2020-01-24T23:10:39.285</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\UsersForm.xbf">
       <PackagePath>View\UsersForm.xbf</PackagePath>
-      <Modified>2020-01-21T11:38:01.314</Modified>
+      <Modified>2020-01-24T23:10:39.285</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -262,11 +266,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-01-21T10:55:28.577</Modified>
+      <Modified>2020-01-24T22:56:11.185</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\Core\WindonsServo.exe">
       <PackagePath>WindonsServo.exe</PackagePath>
-      <Modified>2020-01-21T11:46:58.495</Modified>
+      <Modified>2020-01-24T23:10:42.744</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

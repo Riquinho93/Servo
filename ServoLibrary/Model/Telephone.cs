@@ -11,6 +11,6 @@ namespace ServoLibrary.Model
         public string code { get; set; }
         public string number { get; set; }
 
-    //    public List<Product> products { get; set; }
+        public Product products { get; set; }
     }
 }

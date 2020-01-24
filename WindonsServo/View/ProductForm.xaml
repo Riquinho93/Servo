@@ -21,6 +21,7 @@
             AlternatingRowBackground="LightGray"
             Height="600" Margin="10,171,0,229"
              AutoGenerateColumns="True" 
+             ItemsSource="{x:Bind Products}"
             Grid.RowSpan="2">
             <controls:DataGrid.Columns>
                 <controls:DataGridTemplateColumn Header="Operação">

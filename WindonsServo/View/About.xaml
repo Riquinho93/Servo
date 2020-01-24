@@ -5,7 +5,7 @@
     xmlns:local="using:WindonsServo.View"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d">
+    mc:Ignorable="d" Background="DarkBlue">
 
     <Grid>
         <Grid.RowDefinitions>
@@ -13,19 +13,22 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <TextBlock  Margin="40,10,10,10" Text="About" Style="{StaticResource HeaderTextBlockStyle}"/>
+        <TextBlock  Margin="40,10,10,10" Foreground="White" FontSize="60" HorizontalAlignment="Center" Text="About" Style="{StaticResource HeaderTextBlockStyle}"/>
         <TextBlock FontFamily="Verdana"
-           Margin="10, 90, 10, 10"
+           Margin="30, 120, 50, 10"
            LineStackingStrategy="MaxHeight" 
-           LineHeight="10" 
-           Width="500" 
+           FontSize="18"
+           Foreground="White"
+           HorizontalAlignment="Left"
+           TextAlignment="Justify"
+          
            TextWrapping="Wrap" >
          For all those who need extra income and are unemployed or employed, they can offer their technical training at Servo.
-            Servo is a software that allows you to create a profile to disclose your technical background so that someone especial
-            ly from the neighborhood needs a professional of your qualification. The difference with this product is that you can 
+            Servo is a software that allows you to create a profile to disclose your technical background so that someone especially 
+            from the neighborhood needs a professional of your qualification. The difference with this product is that you can 
             hire a good professional near you saving extra costs without having to hire a professional away from the workplace. Also,
             the product can help you if you move from city or neighborhood and need a professional such as a bricklayer, in which, 
-            knowing nobody you can consult the Servant. 
+            knowing nobody you can consult the Servo. 
         </TextBlock>
     </Grid>
 </Page>

@@ -34,13 +34,13 @@
                     </ListBoxItem>
                     <ListBoxItem x:ConnectionId='7' Name="CategoryListBoxItem">
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="24" Text="&#xE8B7;"/>
+                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="24" Text="&#xE7B8;"/>
                             <TextBlock Text="   Category" FontSize="24"/>
                         </StackPanel>
                     </ListBoxItem>
                     <ListBoxItem x:ConnectionId='8' Name="ProductListBoxItem">
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="24" Text="&#xE716;"/>
+                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="24" Text="&#xE821;"/>
                             <TextBlock Text="   Products" FontSize="24"/>
                         </StackPanel>
                     </ListBoxItem>

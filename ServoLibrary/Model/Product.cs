@@ -17,13 +17,14 @@ namespace WindonsServo.Model
         public string Name { get; set; }
         public string Profession { get; set; }
         public int Age { get; set; }
-       
+
+        public int UserId { get; set; }
         public User User { get; set; }
         public Category Category { get; set; }
 
         public Address Address { get; set; }
 
-      //  public List<Telephone> Telephones { get; set; }
+        public List<Telephone> Telephones { get; set; }
 
     }
 }

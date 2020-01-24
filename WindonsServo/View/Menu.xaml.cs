@@ -28,7 +28,7 @@ namespace WindonsServo.View
         public Menu()
         {
             this.InitializeComponent();
-            MyFrame.Navigate(typeof(Home));
+            MyFrame.Navigate(typeof(Home), user);
 
         }
 
@@ -46,7 +46,7 @@ namespace WindonsServo.View
             }
             if (ProfileListBoxItem.IsSelected)
             {
-                this.MyFrame.Navigate(typeof(Profile));
+                this.MyFrame.Navigate(typeof(Profile), user);
             }
 
             if (CategoryListBoxItem.IsSelected)

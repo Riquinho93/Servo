@@ -25,7 +25,8 @@ namespace WindonsServo.ViewModel
                 }
                 else
                 {
-                   context.Addresses.Include(a => a.Product);
+                    context.Attach(address.Product);
+                   context.Addresses.Add(address);
                    
                 }
 
@@ -63,6 +64,17 @@ namespace WindonsServo.ViewModel
                 // return (from p in context.Addresses
                 //        where p.Id.Equals(id)
                 //       select p).FirstOrDefault();
+            }
+        }
+
+        public static Address getByIdUser(int id)
+        {
+            using (var context = new ApplicationDBContent())
+            {
+                return (from p in context.Addresses
+                        join c in context.Products on p.Product.Id equals id into c
+                        select p).First();
+
             }
         }
 

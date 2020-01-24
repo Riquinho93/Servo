@@ -28,8 +28,8 @@ namespace ServoWindows.View
     public sealed partial class Home : Page
     {
         private List<Product> Products;
-        private List<User> lista;
-        private List<User> Users;
+        //private List<User> lista;
+       // private List<User> Users;
 
         public Home()
         {
@@ -38,8 +38,9 @@ namespace ServoWindows.View
             // UserViewModel userViewModel = new UserViewModel();
             //  Products = userViewModel.ListAll();
 
-            lista = UserViewModel.ListAll();
-            Users = UserViewModel.ListAll();
+            Products = ProductViewModel.ListAll();
+            //lista = UserViewModel.ListAll();
+            //Users = UserViewModel.ListAll();
             //teste.Text = lista[0].name;
             
           //  Products = ProductViewModel.GetProducts();
@@ -47,7 +48,7 @@ namespace ServoWindows.View
 
             // UserViewModel.delete(lista[2]);
             //User user2 = new User();
-            User user = UserViewModel.getById(lista[0].id);
+            //User user = UserViewModel.getById(lista[0].id);
            // teste.Text = user.name;
 
             //user.name = "Professor";
@@ -56,6 +57,9 @@ namespace ServoWindows.View
 
         }
 
-      
+        private void StackPanel_DoubleTapped(object sender, DoubleTappedRoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(ProfilePage));
+        }
     }
 }

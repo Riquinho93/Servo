@@ -6,17 +6,32 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="832" Width="1126">
+    Background="Blue">
 
-    <Grid Margin="10,10,200,200">
-        <TextBlock HorizontalAlignment="Left" Margin="175,148,0,407" TextWrapping="Wrap" Height="67" Width="180" FontSize="48"><Run Text="Login"/><LineBreak/><Run/></TextBlock>
-        <Grid>
-            <TextBlock HorizontalAlignment="Left" Margin="66,253,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22"><Run Text="Email"/><Run Text=":"/></TextBlock>
-            <TextBlock HorizontalAlignment="Left" Margin="66,312,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22"><Run Text="Password"/><Run Text=":"/></TextBlock>
-            <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="167,253,0,0" Text="" VerticalAlignment="Top" Width="165"/>
-            <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="167,312,0,0" PasswordChar="*" VerticalAlignment="Top" Width="165"/>
-            <Button x:Name="btnRegister" Content="Register" HorizontalAlignment="Left" Margin="143,393,0,0" VerticalAlignment="Top" Width="86" FontSize="16" Click="BtnRegister_Click"/>
-            <Button x:Name="btnLogin" Content="Login" HorizontalAlignment="Left" Margin="242,380,0,0" VerticalAlignment="Top" Height="48" Width="90" FontSize="18" Click="BtnLogin_Click"/>
-        </Grid>
-    </Grid>
+   
+
+        <StackPanel Margin="20" Height="480" Width="640" Background="DarkBlue">
+        <StackPanel HorizontalAlignment="Center" Margin="30">
+            <TextBlock Text="Login" Foreground="White" TextWrapping="Wrap" Width="121" FontSize="48" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0, 55,10">
+                <TextBlock Text="Email: " Margin="0,0,10,0" Foreground="White" FontSize="22" />
+                <TextBox x:Name="txtEmail" Width="200" Background="White" Text="" />
+
+            </StackPanel>
+
+        
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,90,0">
+            <TextBlock TextWrapping="Wrap" Margin="0,0,10,0" Text="Password: " Foreground="White" FontSize="22" />
+            <PasswordBox x:Name="txtPassword" Width="200" Background="White" PasswordChar="*"/>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="30">
+            <Button x:Name="btnRegister" Content="Register" Background="Orange" Foreground="White" Width="68" FontSize="12" Click="BtnRegister_Click" VerticalAlignment="Center"/>
+            <Button x:Name="btnLogin" Content="Login" Margin="10" Background="Green" Foreground="White" Width="68"  FontSize="12" Click="BtnLogin_Click" VerticalAlignment="Center"/>
+        </StackPanel>
+       
+        </StackPanel>
+
+   
 </Page>

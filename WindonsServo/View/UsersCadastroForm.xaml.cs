@@ -75,8 +75,26 @@ namespace WindonsServo.View
             dados.email = lblEmail.Text;
             dados.password = lblPassword.Password;
             dados.confirmaPassword = lblConfirPassword.Password;
-            UserViewModel.createUser(dados);
-            this.Frame.Navigate(typeof(UsersForm));
+
+            if (dados.email != null && dados.password != null && dados.confirmaPassword != null)
+            {
+                UserViewModel.createUser(dados);
+                Windows.UI.Popups.MessageDialog m = new Windows.UI.Popups.MessageDialog("Successfully registered!! ", "Login");
+
+                m.ShowAsync();
+
+                this.Frame.Navigate(typeof(UsersForm));
+            }
+            else
+            {
+                Windows.UI.Popups.MessageDialog m = new Windows.UI.Popups.MessageDialog("Email or password is Incorrect!! ", "Login Error!");
+
+                m.ShowAsync();
+
+            }
+
+           
+           
         }
 
         private void Cancel_Button(object sender, RoutedEventArgs e)

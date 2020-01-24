@@ -35,12 +35,35 @@ namespace WindonsServo.View
 
         private void editButton_Click(object sender, RoutedEventArgs e)
         {
+            Button b = (Button)sender;
+            int id = Convert.ToInt32(b.Tag);
+            Product prod = ProductViewModel.getById(id);
+
+            Address address = AddressViewModel.getByIdUser(id);
+           
+            this.Frame.Navigate(typeof(ProductCadastroForm), prod);
 
         }
 
         private void excluirButton_Click(object sender, RoutedEventArgs e)
         {
 
+            Button b = (Button)sender;
+            int id = Convert.ToInt32(b.Tag);
+
+            string myString = id.ToString();
+         
+            Product prod = ProductViewModel.getById(id);
+            ProductViewModel.delete(prod);
+            atualizarDados();
+        }
+
+        private void atualizarDados()
+        {
+            Products = ProductViewModel.ListAll();
+            
+            this.Frame.Navigate(typeof(ProductForm));
+            //  DtView.UpdateLayout();
         }
 
         private void createButton_Click(object sender, RoutedEventArgs e)

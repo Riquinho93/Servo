@@ -37,8 +37,22 @@ namespace WindonsServo.View
         {
             
             dados.Name = lblName.Text;
-            CategoryViewModel.createCategory(dados);
-            this.Frame.Navigate(typeof(CategoriaForm));
+            if(dados.Name != null)
+            {
+                CategoryViewModel.createCategory(dados);
+                Windows.UI.Popups.MessageDialog m = new Windows.UI.Popups.MessageDialog("Successfully registered!! ", "Register Category");
+
+                m.ShowAsync();
+               
+                this.Frame.Navigate(typeof(CategoriaForm));
+
+            }
+            else
+            {
+                Windows.UI.Popups.MessageDialog m = new Windows.UI.Popups.MessageDialog("Name is null or exist in database!! ", "Register Category Error!");
+                m.ShowAsync();
+            }
+           
         }
 
         private void Cancel_Button(object sender, RoutedEventArgs e)

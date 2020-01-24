@@ -9,7 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="144,30,0,0" Text="Register" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="144,30,0,0" Text="Register User" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="48"/>
         <TextBlock HorizontalAlignment="Left" Margin="47,174,0,0" Text="Email" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"/>
         <TextBlock HorizontalAlignment="Left" Margin="47,230,0,0" Text="Password:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"/>
         <TextBlock HorizontalAlignment="Left" Margin="47,273,0,0" Text="Confirm Password:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"/>

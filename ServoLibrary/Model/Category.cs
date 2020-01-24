@@ -12,6 +12,7 @@ namespace ServoLibrary.Model
        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public string Name { get; set; }
+        
         public List<Product> Products { get; set; }
     }
 }

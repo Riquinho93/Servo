@@ -54,6 +54,25 @@ namespace ServoLibrary.Migrations
                     b.ToTable("Category");
                 });
 
+            modelBuilder.Entity("ServoLibrary.Model.Telephone", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("code");
+
+                    b.Property<string>("number");
+
+                    b.Property<int?>("productsId");
+
+                    b.HasKey("id");
+
+                    b.HasIndex("productsId");
+
+                    b.ToTable("Telephones");
+                });
+
             modelBuilder.Entity("ServoLibrary.Model.User", b =>
                 {
                     b.Property<int>("id")
@@ -85,13 +104,14 @@ namespace ServoLibrary.Migrations
 
                     b.Property<string>("Profession");
 
-                    b.Property<int?>("Userid");
+                    b.Property<int>("UserId");
 
                     b.HasKey("Id");
 
                     b.HasIndex("CategoryId");
 
-                    b.HasIndex("Userid");
+                    b.HasIndex("UserId")
+                        .IsUnique();
 
                     b.ToTable("Product");
                 });
@@ -104,6 +124,13 @@ namespace ServoLibrary.Migrations
                         .OnDelete(DeleteBehavior.Cascade);
                 });
 
+            modelBuilder.Entity("ServoLibrary.Model.Telephone", b =>
+                {
+                    b.HasOne("WindonsServo.Model.Product", "products")
+                        .WithMany("Telephones")
+                        .HasForeignKey("productsId");
+                });
+
             modelBuilder.Entity("WindonsServo.Model.Product", b =>
                 {
                     b.HasOne("ServoLibrary.Model.Category", "Category")
@@ -111,8 +138,9 @@ namespace ServoLibrary.Migrations
                         .HasForeignKey("CategoryId");
 
                     b.HasOne("ServoLibrary.Model.User", "User")
-                        .WithMany()
-                        .HasForeignKey("Userid");
+                        .WithOne("product")
+                        .HasForeignKey("WindonsServo.Model.Product", "UserId")
+                        .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
         }

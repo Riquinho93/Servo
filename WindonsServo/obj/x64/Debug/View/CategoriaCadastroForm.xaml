@@ -9,7 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="144,30,0,0" Text="Register Categories" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="144,30,0,0" Text="Register Category" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="48"/>
         <TextBlock HorizontalAlignment="Left" Margin="38,304,0,0" Text="Name" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"/>
         <TextBox x:ConnectionId='2' x:Name="lblName" HorizontalAlignment="Left" Margin="171,293,0,0" Text="" VerticalAlignment="Top" Width="214"/>
         <Button x:ConnectionId='3' Content="Register" HorizontalAlignment="Left" Margin="315,455,0,0" VerticalAlignment="Top" Height="48"                        />

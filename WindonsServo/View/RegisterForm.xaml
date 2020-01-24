@@ -6,20 +6,33 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="DarkBlue">
 
-    <Grid RenderTransformOrigin="0.511,0.606">
-        <TextBlock HorizontalAlignment="Left" Margin="144,30,0,0" Text="Register" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="48"/>
-        <TextBlock HorizontalAlignment="Left" Margin="35,150,0,0" Text="Email" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"/>
-        <TextBlock HorizontalAlignment="Left" Margin="35,198,0,0" Text="Password:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"/>
-        <TextBlock HorizontalAlignment="Left" Margin="35,248,0,0" Text="Confirm Password:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16"/>
-        <PasswordBox x:Name="lblConfirPassword" HorizontalAlignment="Left" Margin="175,237,0,0" PasswordChar="*" VerticalAlignment="Top" Width="212"/>
-        <TextBox x:Name="lblEmail" HorizontalAlignment="Left" Margin="173,145,0,0" Text="" VerticalAlignment="Top" Width="214"/>
-        <PasswordBox x:Name="lblPassword" HorizontalAlignment="Left" Margin="173,187,0,0" PasswordChar="*" VerticalAlignment="Top" Width="214"/>
-        <Button Content="Register" HorizontalAlignment="Left" Margin="306,300,0,0" VerticalAlignment="Top" Height="48" Click="Button_Click_1"/>
-        <Button Content="Cancel" HorizontalAlignment="Left" Margin="195,316,0,0" VerticalAlignment="Top" Width="97" Click="Button_Click"/>
+    <StackPanel Margin="20" Height="480" Width="640">
+        <StackPanel HorizontalAlignment="Center" Margin="30">
+            <TextBlock Text="Register" Foreground="White" TextWrapping="Wrap" Width="175" FontSize="48" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0, 55,10">
+            <TextBlock Text="Email: " Margin="0,0,10,0" Foreground="White" FontSize="22" />
+            <TextBox x:Name="lblEmail" Width="200" Background="White" Text="" />
 
+        </StackPanel>
 
 
-    </Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,90,10">
+            <TextBlock TextWrapping="Wrap" Margin="0,0,10,0" Text="Password: " Foreground="White" FontSize="22" />
+            <PasswordBox x:Name="lblPassword" Width="200" Background="White" PasswordChar="*"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,180,0">
+            <TextBlock TextWrapping="Wrap" Margin="0,0,10,0" Text=" Confirm Password: " Foreground="White" FontSize="22" />
+            <PasswordBox x:Name="lblConfirPassword" Width="200" Background="White" PasswordChar="*"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="30">
+            <Button x:Name="btnRegister" Content="Cancel" Background="DarkRed" Foreground="White" Width="68" FontSize="12" Click="Button_Click" VerticalAlignment="Center"/>
+            <Button x:Name="btnLogin" Content="Register" Margin="10" Background="Green" Foreground="White" Width="68"  FontSize="12" Click="Button_Click_1" VerticalAlignment="Center"/>
+        </StackPanel>
+
+    </StackPanel>
 </Page>

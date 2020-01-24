@@ -13,7 +13,7 @@ namespace WindonsServo.ViewModel
     public class ProductViewModel
     {
         public Category Category { get; set; }
-        public static  void createProduct(Category category, Product product)
+        public static  void createProduct(Category category, Product product, User user)
         {
 
             using (var context = new ApplicationDBContent())
@@ -26,6 +26,9 @@ namespace WindonsServo.ViewModel
                 else
                 {
                     // context.Products.Add(product);
+                    context.Attach(product.Category);
+                    context.Attach(product.User);
+                   
                     category.Products.Add(product);
                     
                 }
@@ -41,6 +44,10 @@ namespace WindonsServo.ViewModel
 
             using (var context = new ApplicationDBContent())
             {
+                Category category = CategoryViewModel.getById(product.Category.Id);
+                Address address = AddressViewModel.getById(product.Address.Id);
+                context.Remove(category);
+                context.Remove(address);
                 context.Remove(product);
                 context.SaveChanges();
 
@@ -51,7 +58,8 @@ namespace WindonsServo.ViewModel
         {
             using (var context = new ApplicationDBContent())
             {
-                return context.Products.Include(c => c.Category).ToList();
+                return context.Products.Include(p => p.Category).AsNoTracking().Include(p => p.User).AsNoTracking().ToList();
+                //return context.Products.Include(c => c.Category).ToList();
             }
 
         }
@@ -60,10 +68,22 @@ namespace WindonsServo.ViewModel
         {
             using (var context = new ApplicationDBContent())
             {
-                return (from p in context.Products
+                return (from p in context.Products join a in context.Addresses on p.Address.ProductId equals id into a 
                         where p.Id.Equals(id)
                         select p).FirstOrDefault();
             }
+        }
+
+        public static Product getByIdUser(int id)
+        {
+            using (var context = new ApplicationDBContent())
+            {
+                 return (from p in context.Products join c in context.Users on p.User.id equals id into c 
+                         select p).FirstOrDefault();
+                
+            }
+
+           
         }
 
 

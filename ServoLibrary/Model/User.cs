@@ -14,5 +14,7 @@ namespace ServoLibrary.Model
         public string email { get; set; }
         public string password { get; set; }
         public string confirmaPassword { get; set; }
+
+        public Product product { get; set; }
     }
 }

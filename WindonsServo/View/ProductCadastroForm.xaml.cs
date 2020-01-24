@@ -29,11 +29,15 @@ namespace WindonsServo.View
         Product dados;
         Category categoria;
         private List<Category> Categorias;
-      
+
+        User users;
+
+
         public ProductCadastroForm()
         {
             this.InitializeComponent();
             dados = new Product();
+            dados.User = users;
             Categorias = CategoryViewModel.ListAll();
       
 
@@ -46,10 +50,24 @@ namespace WindonsServo.View
             string idade = lblAge.Text;
             int old = Convert.ToInt32(idade);
             dados.Age = old;
-            
+          
           //  int temp = Convert.ToInt32(lblAge);
             //dados.Age = lblAge;
-            ProductViewModel.createProduct(categoria, dados);
+            if (dados.Name != null && dados.Age != 0 && dados.Category != null)
+            {
+                dados.UserId = users.id;
+                users.product = dados;
+                UserViewModel.createUser(users);
+                ProductViewModel.createProduct(categoria, dados, users);
+              
+            }
+            else
+            {
+                Windows.UI.Popups.MessageDialog m = new Windows.UI.Popups.MessageDialog("empty fields!! ", "Register Product Error");
+
+                m.ShowAsync();
+            }
+            
             //categoria.Products.Add(dados);
             Address address = new Address();
             address.Cidade = lblCity.Text;
@@ -58,13 +76,25 @@ namespace WindonsServo.View
             address.Rua = lblStreet.Text;
             address.Product = dados;
             address.ProductId = dados.Id;
- 
-            AddressViewModel addressViewModel = new AddressViewModel();
-            addressViewModel.createAddress(dados, address);
-           
- 
+            if(address.Rua != null && address.Cidade != null)
+            {
+                AddressViewModel addressViewModel = new AddressViewModel();
+                addressViewModel.createAddress(dados, address);
 
-            this.Frame.Navigate(typeof(ProductForm));
+                Windows.UI.Popups.MessageDialog m = new Windows.UI.Popups.MessageDialog("Successfully registered!! ", "Register Prod");
+
+                m.ShowAsync();
+                this.Frame.Navigate(typeof(ProductForm));
+            }
+            else
+            {
+                Windows.UI.Popups.MessageDialog m = new Windows.UI.Popups.MessageDialog("empty fields!! ", "Register Product Error");
+
+                m.ShowAsync();
+
+            }
+            
+            
         }
 
         private void Button_Cancelar(object sender, RoutedEventArgs e)
@@ -92,9 +122,31 @@ namespace WindonsServo.View
         {
             
 
-            User users = e.Parameter as User;
+            users = e.Parameter as User;
+            Product prod = e.Parameter as Product;
 
-            dados.User = users;
+
+
+            if (prod == null)
+            {
+                lblName.Text = "";
+                lblProfession.Text = "";
+                lblAge.Text = "";
+                lblCity.Text = "";
+                lblcomplemento.Text = "";
+                lblStreet.Text = "";
+            }
+            else
+            {
+                lblName.Text = prod.Name;
+                lblProfession.Text = prod.Profession;
+                string str = Convert.ToString(prod.Age);
+                lblAge.Text = str;
+                Address add = AddressViewModel.getByIdUser(prod.Id);
+                lblCity.Text = add.Cidade;
+                lblcomplemento.Text = add.Complemento;
+                lblStreet.Text = add.Rua;
+            }
 
 
 

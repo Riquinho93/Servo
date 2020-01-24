@@ -34,16 +34,33 @@ namespace WindonsServo.View
             this.Frame.Navigate(typeof(MainPage));
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private async void Button_Click_1(object sender, RoutedEventArgs e)
         {
 
             User user = new User();
             user.email = lblEmail.Text;
             user.password = lblPassword.Password;
             user.confirmaPassword = lblConfirPassword.Password;
-            UserViewModel.createUser(user);
 
-            this.Frame.Navigate(typeof(MainPage));
+            if(user.email!= null && user.password != null && user.confirmaPassword != null)
+            {
+                UserViewModel.createUser(user);
+                Windows.UI.Popups.MessageDialog m = new Windows.UI.Popups.MessageDialog("Successfully registered!! ", "Login");
+
+                m.ShowAsync();
+                
+                this.Frame.Navigate(typeof(MainPage));
+            }
+            else
+            {
+                Windows.UI.Popups.MessageDialog m = new Windows.UI.Popups.MessageDialog("Email or password is Incorrect!! ", "Login Error!");
+
+                m.ShowAsync();
+
+            }
+
+
+           
 
         }
     }

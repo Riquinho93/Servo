@@ -184,6 +184,9 @@
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\Profile.xbf">
       <PackagePath>View\Profile.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\ProfilePage.xbf">
+      <PackagePath>View\ProfilePage.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\RegisterForm.xbf">
       <PackagePath>View\RegisterForm.xbf</PackagePath>
     </AppxPackagedFile>

@@ -374,3 +374,8 @@ C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debu
 C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
 C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\Microsoft.Toolkit.Uwp.UI.Controls.DataGrid\en-US\Microsoft.Toolkit.Uwp.UI.Controls.Properties.Resources.resw
 C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\FxResources.System.Data.SqlClient.SR.resw
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\bin\x64\Debug\View\ProfilePage.xbf
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProfilePage.g.i.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProfilePage.g.cs
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProfilePage.xaml
+C:\Users\henri\Downloads\8º Período\DAI\WindonsServo\WindonsServo\obj\x64\Debug\View\ProfilePage.xbf

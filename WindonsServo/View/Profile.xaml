@@ -11,20 +11,38 @@
 
     <Grid>
         <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
+            
         </Grid.RowDefinitions>
 
-
-        <StackPanel Margin="20,20,20,20">
-            <StackPanel Height="454">
-                <TextBlock HorizontalAlignment="Left" Margin="144,20,0,0" Text="Profile" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="48"/>
+        <StackPanel Grid.Row="0">
+            <TextBlock HorizontalAlignment="Center" Text="My Profile" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="48"/>
+        </StackPanel>
+        <StackPanel Margin="20" Orientation="Horizontal" Grid.Row="1">
+            
+            <StackPanel Margin="5" HorizontalAlignment="Left">
                 <Image  HorizontalAlignment="Left" Width="160" Source="/../Assets/img3.jpg" />
                 <!-- {x:Bind CoverImage}  -->
-                <TextBlock FontSize="25" Text="Name: "/>
-                <TextBlock FontSize="25" Text="Profession: "/>
-                <TextBlock FontSize="25" Text="City:" />
-                <TextBlock x:Name="txtTeleFone"  HorizontalAlignment="Left" Text="TelePhone:" TextWrapping="Wrap" Height="19" Width="74"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock FontSize="25" Text="Name: "/>
+                    <TextBlock x:Name="lblName" FontSize="25"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock FontSize="25" Text="Profession: "/>
+                    <TextBlock x:Name="lblbProfession" FontSize="25" Text="Profession: "/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock FontSize="25" Text="City: "/>
+                    <TextBlock x:Name="lblCity" FontSize="25" Text="City:" />
+                </StackPanel>
+                
+                
+                
+            </StackPanel>
+            <StackPanel  Margin="50,50,5,50" HorizontalAlignment="Right">
+                <TextBlock x:Name="txtTeleFone"  FontSize="20" HorizontalAlignment="Left" Text="Fone:" TextWrapping="Wrap"/>
                 <Button Content="Add"  Background="Green" Foreground="White" Height="32" Click="Button_Click"/>
                 <TextBox x:Name="lblTele" Text=""  HorizontalAlignment="Left" Width="131"/>
                 <Button x:Name="btnSave" Content="Save" Click="btnSave_Click"/>

@@ -15,7 +15,7 @@ namespace WindonsServo.Data
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Address> Addresses { get; set; }
-      //  public DbSet<Telephone> Telephones { get; set; }
+        public DbSet<Telephone> Telephones { get; set; }
      
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

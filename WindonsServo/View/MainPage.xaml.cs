@@ -1,21 +1,12 @@
 ﻿using ServoLibrary.Model;
-using ServoWindows.View;
-using System;
-using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
 using WindonsServo.Data;
 using WindonsServo.View;
-using Windows.Foundation;
-using Windows.Foundation.Collections;
+using Windows.Data.Xml.Dom;
+using Windows.UI.Notifications;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Controls.Primitives;
-using Windows.UI.Xaml.Data;
-using Windows.UI.Xaml.Input;
-using Windows.UI.Xaml.Media;
-using Windows.UI.Xaml.Navigation;
 
 // O modelo de item de Página em Branco está documentado em https://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -26,34 +17,46 @@ namespace WindonsServo
     /// </summary>
     public sealed partial class MainPage : Page
     {
+
         public MainPage()
         {
             this.InitializeComponent();
         }
 
-    
-        private void BtnLogin_Click(object sender, RoutedEventArgs e)
+
+        private async void BtnLogin_Click(object sender, RoutedEventArgs e)
         {
             using (var context = new ApplicationDBContent())
             {
                 User user = context.Users.FirstOrDefault(p => p.email == txtEmail.Text && p.password == txtPassword.Password);
 
-                if(user != null)
+                if (user != null)
                 {
                     this.Frame.Navigate(typeof(Menu), user);
+
+                }
+                else
+                {
+                     Windows.UI.Popups.MessageDialog m = new Windows.UI.Popups.MessageDialog("Email or password is Incorrect!! ", "Login Error!");
+
+                      m.ShowAsync();
+
                  
+
                 }
             }
-           
-           
-{
-   
- }
+
+
+            {
+
+            }
         }
 
         private void BtnRegister_Click(object sender, RoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(Register));
         }
+
+      
     }
 }

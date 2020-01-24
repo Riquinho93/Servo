@@ -5,26 +5,28 @@
     xmlns:local="using:ServoWindows.View"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:data="using:ServoLibrary.Model"
-    mc:Ignorable="d">
+    xmlns:data1="using:WindonsServo.Model"
+    mc:Ignorable="d"
+    RequestedTheme="Dark">
 
 
-    <Grid>
+    <Grid Margin="10,10,10,10">
 
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <SplitView Grid.Row="1">
+        <SplitView Grid.Row="1" >
             <SplitView.Content>
-                <GridView ItemsSource="{x:Bind Users}">
+                <GridView ItemsSource="{x:Bind Products}" IsItemClickEnabled="True">
                     <GridView.ItemTemplate>
-                        <DataTemplate x:DataType="data:User">
-                            <StackPanel>
+                        <DataTemplate x:DataType="data1:Product">
+                            <StackPanel Background="DarkBlue" IsDoubleTapEnabled="True" DoubleTapped="StackPanel_DoubleTapped">
                                 <Image Width="160" Source="/../Assets/img3.jpg" />
-                                <TextBlock FontSize="40" Text="{x:Bind email}"/>
-                                <TextBlock FontSize="14" Text="{x:Bind password}"/>
+                                <TextBlock HorizontalAlignment="Center" FontStyle="Normal" Foreground="White" FontSize="40" Text="{x:Bind Profession}"/>
+                                <TextBlock HorizontalAlignment="Center" FontStyle="Normal" Foreground="White" FontSize="30" Text="{x:Bind Name}"/>
+                                <TextBlock HorizontalAlignment="Center" FontSize="14" Foreground="White" Text="{x:Bind Address.Cidade}"/>
                             </StackPanel>
                         </DataTemplate>
                     </GridView.ItemTemplate>
